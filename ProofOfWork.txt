@@ -1,0 +1,19 @@
+Proof of Work System, ou Protocolo de prova de trabalho 
+
+Em resumo, antes de explicar o que é o proof of work, precisamos entender que 
+em uma corrente de blocos sequencial, para ser adicionado um novo bloco,
+todos os peers, ou os participantes daquela chain precisam aceitar que o bloco seja 
+emitido. 
+
+Funcionamento: Para essa aceitação, é necessária a realização de calculos computacionais 
+complexos para adicionar um bloco na blockchain. Quando um computador dentro da rede consegue realizar esse cálculo, os outros 
+validam isso e dessa maneira o bloco é adicionado na corrente. O que torna o processo seguro 
+é a validação não só de um, mas de todos os computadores presentes na rede blockchain.
+
+Um dos exemplos desse tipo de algoritmo (falando agora no mundo das criptomoedas) temos o HashCash.
+O HashCash estabelece um nível de dificulade para a emissão de algum ativo.
+Segundo a plataforma "https://academy.bit2me.com/pt/que-es-hashcash/", O HashCash foi uma solução projetada para combater spam, gerando 
+uma prova de trabalho que permitia verificar se um determinado email não era spam.
+
+No nosso trabalho, iremos estabelecer um nível de dificuldade para esses cálculos, e assim todos os computadores envolvidos 
+na rede conseguem validar um bloco antes dele ser adicionado na blockchain 

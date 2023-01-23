@@ -1,0 +1,4 @@
+Modulos instalados:
+Web Socket para construção do servidor peer to peer - npm i ws --save
+
+elliptic - módulo para fazer criptografia eliptica - npm i elliptic --save
